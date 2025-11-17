@@ -1,5 +1,3 @@
-
-
 function mergeArrays(arr1, arr2) {
     const result = []
     for (const item of arr1) result.push(item)
