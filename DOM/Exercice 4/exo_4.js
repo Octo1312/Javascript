@@ -28,9 +28,5 @@ input.addEventListener('input', function(event) {
             items.textContent = item;
             countryList.appendChild(items);
         });
-    } else {
-        const items = document.createElement('li');
-        items.textContent = 'Aucun résultat trouvé.';
-        countryList.appendChild(items);
     }
 })
