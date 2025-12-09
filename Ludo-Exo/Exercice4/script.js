@@ -23,7 +23,7 @@ input[2].addEventListener("change", () => {
 })
 
 input[3].addEventListener("change", () => {
-    let padding = input[1].value;
+    let padding = input[3].value;
     result.style.padding = `${padding}px`;
 })
 
