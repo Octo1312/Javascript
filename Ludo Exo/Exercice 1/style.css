@@ -1,0 +1,52 @@
+.btn {
+    background-color: white;
+    margin-bottom: 2rem;
+    padding: 0.5rem;
+    width: 200px;
+    margin-left: 1rem;
+    color: black;
+    text-decoration: none;
+}
+
+.btn2 {
+    background-color: white;
+    margin-bottom: 2rem;
+    padding: 0.5rem;
+    width: 200px;
+    margin-left: 1rem;
+    color: black;
+    text-decoration: none;
+}
+
+.btn3 {
+    background-color: white;
+    margin-bottom: 2rem;
+    padding: 0.5rem;
+    width: 200px;
+    margin-left: 1rem;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.rectangle {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 2rem 1rem; 
+}
+
+.rectangle2 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 2rem 1rem; 
+}
+
+.rectangle3 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 2rem 1rem; 
+}
